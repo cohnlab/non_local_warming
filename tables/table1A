@@ -1,0 +1,23 @@
+% latex table generated in R 3.5.1 by xtable 1.8-3 package
+% Thu May 16 11:28:13 2019
+\begin{table}[ht]
+\centering
+\begin{tabular}{rrrrr}
+  \hline
+ & Mean & SD & Min & Max \\ 
+  \hline
+AT ($^{\circ}$C) & 31.82 & 3.18 & 4.20 & 45.00 \\ 
+  AT anomaly ($^{\circ}$C) & 0.00 & 3.18 & -27.62 & 13.18 \\ 
+  F(1-50 km) (km$^2$) & 2985.00 & 2045.00 & 472.90 & 7649.00 \\ 
+  F(1-50 km) change (km$^2$) & 102.70 & 158.20 & 1.61 & 1026.00 \\ 
+  P(lag=1 day) (mm) & 4.62 & 8.84 & 0.00 & 153.00 \\ 
+  P(lag=2 day) (mm) & 4.62 & 8.84 & 0.00 & 153.00 \\ 
+  P(lag=3 day) (mm) & 4.62 & 8.85 & 0.00 & 235.10 \\ 
+  P(lag=4 day) (mm) & 4.62 & 8.85 & 0.00 & 235.10 \\ 
+  P(lag=5 day) (mm) & 4.62 & 8.84 & 0.00 & 235.10 \\ 
+  Soil moisture (kg/m$^2$) & 27.96 & 9.51 & 3.84 & 45.31 \\ 
+  TOA radiation (W/m$^2$) & 33.91 & 4.20 & 22.63 & 40.58 \\ 
+  Net surface radiation (W/m$^2$) & 18.41 & 4.18 & 1.12 & 34.62 \\ 
+   \hline
+\end{tabular}
+\end{table}

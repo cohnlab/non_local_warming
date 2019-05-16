@@ -10,4 +10,6 @@ make\_figure5\_nonlocal.R, make\_figure5\_halo.R  :  replicates Figure 5 in two 
 make\_figure6.R  : replicates Figure 6 in two parts, Figure6A.eps and Figure6B.eps
 
 ### R scripts to replicate tables:
-make\_table2.  : 
+make\_table1.R : code to replicate Table 2.  This script produced four uncompiled latex files, corresponding to Table 1 sections A-D, which can be found in the 'tables' subfolder as 'table1A','table1B','table1C','table1D'\\
+
+make\_table2.R : code to replicate Table 2.  The uncompiled latex file can be found in the 'tables' subfolder as 'table2'
