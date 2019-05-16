@@ -6,7 +6,8 @@ The dataset used for this analysis can be found in "https://osf.io/wvr93/?view_o
 The code assumes that the data has been downloaded and saved as "dataset_weights.csv" in the same working directory as the code.
 
 ### R scripts to replicate figures:
-make\_figure5\_nonlocal.R, make\_figure5\_halo.R  :  replicate Figure 5
-make\_figure6.R  : replicates Figure 6
-make\_figure_S3.R  : replicates SI Figure 3
-make\_figure_S4.R  : replicates SI Figure 4
+make\_figure5\_nonlocal.R, make\_figure5\_halo.R  :  replicates Figure 5 in two parts, Figure5\_halo.eps\ and Figure5_nonlocal.eps, which can be found in the 'figures' subfolder. \\
+make\_figure6.R  : replicates Figure 6 in two parts, Figure6A.eps and Figure6B.eps
+
+### R scripts to replicate tables:
+make\_table2.  : 

@@ -1,0 +1,15 @@
+% latex table generated in R 3.5.1 by xtable 1.8-3 package
+% Thu May 16 11:20:30 2019
+\begin{table}[ht]
+\centering
+\begin{tabular}{rllrl}
+  \hline
+ & Forest Loss Scenario & Dataset &  $\Delta AT$ ($^\circ$C) & CI 95\% ($^\circ$C) \\ 
+  \hline
+1 & Historical (2000-2015) & Spatially representative & 0.20 & $\pm$0.0566 \\ 
+  2 & Loss of 25% of forest remaining in 2015 & Spatially representative & 0.62 & $\pm$0.1779 \\ 
+  3 & Uniform loss of 25% forest cover & Theoretical & 0.81 & $\pm$0.2312 \\ 
+  4 & Historical (1985-2017) & Amazonia + Cerrado & 0.35 & $\pm$0.0996 \\ 
+   \hline
+\end{tabular}
+\end{table}
